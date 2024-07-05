@@ -16,7 +16,7 @@ Tony Sharma, the Data Analytics Director, decided to conduct a SQL challenge to 
 
 ### Task Description
 
-1. **Ad-hoc Requests**: Review the 10 ad-hoc requests.
+1. **Ad-hoc Requests**: Review the 10 ad-hoc requests in https://github.com/koustuba-84/ad-hoc-requests/blob/main/ad-hoc.pdf
 2. **SQL Queries**: Execute SQL queries to answer each of these requests.
 3. **Presentation**: Create a presentation that effectively communicates the insights to top-level management. An audio/video presentation is preferred.
 
