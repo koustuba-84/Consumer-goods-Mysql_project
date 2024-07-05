@@ -41,8 +41,7 @@ Tony Sharma, the Data Analytics Director, decided to conduct a SQL challenge to 
 
 ### Power BI Dashboard
 
-To explore the detailed Power BI dashboard, please click (https://app.powerbi.com/view?r=eyJrIjoiM2RlMmVmNDktZGFkZC00ZTU2LWJmMjAtNDRiNDk4YThhMWM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ad5b178b5db75d8b9bc4).
-
+To explore the detailed Power BI dashboard, please click  https://app.powerbi.com/view?r=eyJrIjoiM2RlMmVmNDktZGFkZC00ZTU2LWJmMjAtNDRiNDk4YThhMWM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ad5b178b5db75d8b9bc4
 
 ### ppt link 
 [Consumer Goods Presentation](https://github.com/koustuba-84/Consumer-goods/blob/main/consumer-goods.pptx)
